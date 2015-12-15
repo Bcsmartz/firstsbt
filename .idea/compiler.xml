@@ -21,6 +21,6 @@
     <bytecodeTargetLevel target="1.7" />
   </component>
   <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_STRING" value="-bootclasspath /usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar -g -bootclasspath /usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar -g" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-bootclasspath /usr/local/Cellar/android-sdk/24.3.3/platforms/android-23/android.jar -g" />
   </component>
 </project>

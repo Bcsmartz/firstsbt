@@ -8,13 +8,9 @@
       <option name="featureWarnings" value="true" />
       <parameters>
         <parameter value="-bootclasspath" />
-        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar" />
+        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-23/android.jar" />
         <parameter value="-javabootclasspath" />
-        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar" />
-        <parameter value="-bootclasspath" />
-        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar" />
-        <parameter value="-javabootclasspath" />
-        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-17/android.jar" />
+        <parameter value="/usr/local/Cellar/android-sdk/24.3.3/platforms/android-23/android.jar" />
       </parameters>
     </profile>
   </component>

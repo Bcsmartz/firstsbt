@@ -44,7 +44,7 @@ public class MainActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.recycler);
 
         // Find the UI components
         this.recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
